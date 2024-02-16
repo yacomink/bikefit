@@ -1,0 +1,26 @@
+{
+    "profiles": [
+        {
+            "profileName": "Parlee",
+            "angleSV": "71.5",
+            "saddleHeightSV": "820",
+            "crankLengthSV": "170.0",
+            "setBackSV": "260",
+            "saddleYSV": "778",
+            "saddleTipSV": "0",
+            "tipSetback": 0,
+            "angleBarSV": "60.2",
+            "barDistanceSV": "750",
+            "barXSV": "399",
+            "barYSV": "636",
+            "barRiseSV": "142",
+            "BBCentreSV": "266",
+            "HPAngleSV": "0",
+            "handDistanceSV": "781",
+            "handHeightSV": "979",
+            "handDropSV": "65",
+            "tipSetbackSV": "260",
+            "HPDistanceSV": "0"
+        }
+    ]
+}
